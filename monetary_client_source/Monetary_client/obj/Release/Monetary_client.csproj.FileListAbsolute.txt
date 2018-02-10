@@ -1,0 +1,8 @@
+C:\Users\Igor Farszky\workspace\ISS_dream_sim\Monetary_client\Monetary_client\bin\Release\Monetary_client.dll.config
+C:\Users\Igor Farszky\workspace\ISS_dream_sim\Monetary_client\Monetary_client\bin\Release\Monetary_client.dll
+C:\Users\Igor Farszky\workspace\ISS_dream_sim\Monetary_client\Monetary_client\bin\Release\Monetary_client.pdb
+C:\Users\Igor Farszky\workspace\ISS_dream_sim\Monetary_client\Monetary_client\bin\Release\Lidgren.Network.dll
+C:\Users\Igor Farszky\workspace\ISS_dream_sim\Monetary_client\Monetary_client\bin\Release\Lidgren.Network.pdb
+C:\Users\Igor Farszky\workspace\ISS_dream_sim\Monetary_client\Monetary_client\obj\Release\Monetary_client.csprojResolveAssemblyReference.cache
+C:\Users\Igor Farszky\workspace\ISS_dream_sim\Monetary_client\Monetary_client\obj\Release\Monetary_client.dll
+C:\Users\Igor Farszky\workspace\ISS_dream_sim\Monetary_client\Monetary_client\obj\Release\Monetary_client.pdb
